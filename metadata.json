@@ -1,0 +1,6 @@
+{
+  "name": "FasalNet",
+  "description": "AI-powered B2B agricultural marketplace connecting farmers with surplus produce directly to food businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
